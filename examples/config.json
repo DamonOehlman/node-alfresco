@@ -1,0 +1,7 @@
+{
+  "oauth": {
+    "callback": "http://localhost:3000/callback",
+    "consumer_key": "l7xx318c7c86df9a4e87a8ebecdf32e9e9fd",
+    "consumer_secret": "21d1fe56007d42199a7903eb18cf4669"
+  }
+}

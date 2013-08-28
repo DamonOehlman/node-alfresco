@@ -1,0 +1,28 @@
+{
+  "name": "alfresco",
+  "version": "0.0.0",
+  "description": "Alfresco Cloud Service API Integration Layer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DamonOehlman/alfresco.git"
+  },
+  "keywords": [
+    "alfresco"
+  ],
+  "author": "Damon Oehlman <damon.oehlman@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DamonOehlman/alfresco/issues"
+  },
+  "dependencies": {
+    "request": "~2.27.0",
+    "cog": "~0.2.0"
+  },
+  "devDependencies": {
+    "clarity": "~0.1.5"
+  }
+}
