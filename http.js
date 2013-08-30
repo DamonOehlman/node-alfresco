@@ -37,7 +37,8 @@ module.exports = function(config) {
   function http(opts, callback) {
     var requestOpts = {
       method: opts.method || 'GET',
-      url: (opts.cmis ? baseCmisURl : baseUrl) + '/' + opts.path,
+      url: (opts.cmis ? baseCmisURl : baseUrl) + opts.path,
+      json: !opts.cmis,
       headers: baseHeaders
     };
 
