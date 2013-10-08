@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/DamonOehlman/alfresco.git"
+    "url": "https://bitbucket.org/DamonOehlman/alfresco.git"
   },
   "keywords": [
     "alfresco"
@@ -17,7 +17,7 @@
   "author": "Damon Oehlman <damon.oehlman@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/DamonOehlman/alfresco/issues"
+    "url": "https://bitbucket.org/DamonOehlman/alfresco/issues"
   },
   "dependencies": {
     "request": "~2.27.0",
