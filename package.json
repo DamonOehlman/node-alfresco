@@ -1,6 +1,6 @@
 {
   "name": "alfresco",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Alfresco Cloud Service API Integration Layer",
   "main": "index.js",
   "scripts": {
