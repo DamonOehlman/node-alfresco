@@ -20,10 +20,10 @@
     "url": "https://github.com/DamonOehlman/alfresco/issues"
   },
   "dependencies": {
-    "request": "~2.27.0",
-    "cog": "~0.2.0"
+    "request": "^2",
+    "cog": "~0.5"
   },
   "devDependencies": {
-    "clarity": "~0.1.5"
+    "clarity": "^1"
   }
 }
